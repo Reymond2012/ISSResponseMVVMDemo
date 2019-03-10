@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ISSResponseMVVMDemo</string>
+    <string name="etLongotude">Enter Longitude</string>
+    <string name="etLatitude">Enter Latitude</string>
+</resources>
